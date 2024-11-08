@@ -23,5 +23,4 @@ This project focuses on analyzing customer subscription trends, including patter
 - Average Duration : 365.35
 - Total Customer : 33787
 - Number of region : 4
-
-Total Order : 33787
+- Total Subscription : 33787
